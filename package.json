@@ -4,7 +4,8 @@
     "version": "1.0.0",
     "description": "",
     "scripts": {
-        "start": "node_modules/.bin/gulp watch"
+        "start": "node_modules/.bin/gulp watch",
+        "heroku-postbuild": "npm install gulp && gulp"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.10.2",
