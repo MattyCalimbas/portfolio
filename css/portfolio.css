@@ -412,7 +412,7 @@ section#portfolio {
   font-size: 17px;
 }
 
-@media (max-width: 1450px) {
+@media (max-width: 1700px) {
    .team-member {
      margin-left: 0px !important;
    }
@@ -420,6 +420,7 @@ section#portfolio {
      margin-left:0px !important;
    }
 }
+
 
 .team-member img {
   width: 400px;
@@ -435,6 +436,7 @@ section#portfolio {
 
 .team-member p {
   margin-top: 0;
+  padding-right: 10px;
 }
 
 .team-member .about-me p {
