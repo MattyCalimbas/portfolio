@@ -412,13 +412,22 @@ section#portfolio {
   font-size: 17px;
 }
 
-@media (max-width: 1800px) {
+@media (max-width: 1650px) {
    .team-member {
      margin-left: 0px !important;
    }
    .team-member-desc {
      margin-left:0px !important;
    }
+}
+
+@media (min-width: 1650px) {
+  .team-member {
+    margin-left: 175px !important;
+  }
+  .team-member-desc {
+    margin-left:-125px !important;
+  }
 }
 
 
