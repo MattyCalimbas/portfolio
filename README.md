@@ -1,23 +1,49 @@
+Sure, here's a sample README for a portfolio website like [https://www.mattcalimbas.com](https://www.mattcalimbas.com):
 
-## Status
+# Matt Calimbas Portfolio
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-agency.svg)](https://www.npmjs.com/package/startbootstrap-agency)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-agency.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-agency)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-agency/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-agency)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-agency/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-agency?type=dev)
+[Portfolio Link](https://www.mattcalimbas.com)
+
+Welcome to my portfolio website! This site showcases my work, projects, and experiences in the field of web development and design. Feel free to explore and get to know more about me and my work.
+
+## About Me
+
+I'm Matty Calimbas, a passionate and creative web developer with a love for crafting beautiful and functional digital experiences. I have a strong foundation in front-end and back-end technologies, as well as a keen eye for design and user experience.
 
 
-### Advanced Usage
+## Featured Skills
 
-After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+- **Front-end Development:** Proficient in HTML, CSS, JavaScript, and various front-end libraries and frameworks.
+- **Back-end Development:** Skilled in server-side scripting, database management, and API integration.
+- **UI/UX Design:** Adept at creating visually appealing and user-friendly interfaces.
+- **Responsive Design:** Experience in developing websites that work seamlessly across different devices and screen sizes.
 
-#### Gulp Tasks
+## Contact Me
 
-- `gulp` the default task that builds everything
-- `gulp watch` browserSync opens the project in your default browser and live reloads when changes are made
-- `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
-- `gulp js` minifies the themes JS file
-- `gulp vendor` copies dependencies from node_modules to the vendor directory
+Feel free to reach out to me if you're interested in collaborating, have questions about my work, or just want to connect. You can find me on [LinkedIn](https://www.linkedin.com/in/matthew-calimbas/) or reach out via email at [matthewcalimbas@gmail.com](mailto:matthewcalimbas@gmail.com).
 
-You must have npm installed globally in order to use this build environment.
+## Getting Started
+
+To view the website locally, follow these steps:
+
+1. **Clone the Repository:** Start by cloning this repository to your local machine.
+
+   ```bash
+   git clone https://github.com/yourusername/matt-calimbas-portfolio.git
+   ```
+
+2. **Navigate to the Directory:** Move into the project directory.
+
+   ```bash
+   cd matt-calimbas-portfolio
+   ```
+
+3. **Open the Website:** Simply open the `index.html` file in your web browser to view the portfolio.
+
+## License
+
+This portfolio website is available under the [MIT License](LICENSE). Feel free to fork and modify the website according to your needs.
+
+---
+
+Thank you for visiting my portfolio website. I hope you enjoy exploring my projects and learning more about my journey in the world of web development and design. If you have any feedback or inquiries, don't hesitate to get in touch!
