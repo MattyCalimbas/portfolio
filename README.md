@@ -1,6 +1,4 @@
-Sure, here's a sample README for a portfolio website like [https://www.mattcalimbas.com](https://www.mattcalimbas.com):
-
-# Matt Calimbas Portfolio
+# Matty Calimbas Portfolio
 
 [Portfolio Link](https://www.mattcalimbas.com)
 
