@@ -2,7 +2,7 @@
 
 Create your stunning portfolio website with this easy-to-use HTML and CSS template powered by Bootstrap!
 
-![Screenshot](img/portfolio/portfolioTemplate.gif.png)
+![Screenshot](./img/portfolio/portfolioTemplate.gif)
 
 ## Features
 
