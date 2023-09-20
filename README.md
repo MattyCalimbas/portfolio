@@ -1,47 +1,54 @@
-# Matty Calimbas Portfolio
+# Portfolio Website Template
 
-[Portfolio Link](https://www.mattcalimbas.com)
+Create your stunning portfolio website with this easy-to-use HTML and CSS template powered by Bootstrap!
 
-Welcome to my portfolio website! This site showcases my work, projects, and experiences in the field of web development and design. Feel free to explore and get to know more about me and my work.
+![Screenshot](img/portfolio/portfolioTemplate.gif.png)
 
-## About Me
+## Features
 
-I'm Matty Calimbas, a passionate and creative web developer with a love for crafting beautiful and functional digital experiences. I have a strong foundation in front-end and back-end technologies, as well as a keen eye for design and user experience.
-
-
-## Featured Skills
-
-- **Front-end Development:** Proficient in HTML, CSS, JavaScript, and various front-end libraries and frameworks.
-- **Back-end Development:** Skilled in server-side scripting, database management, and API integration.
-- **UI/UX Design:** Adept at creating visually appealing and user-friendly interfaces.
-- **Responsive Design:** Experience in developing websites that work seamlessly across different devices and screen sizes.
-
-## Contact Me
-
-Feel free to reach out to me if you're interested in collaborating, have questions about my work, or just want to connect. You can find me on [LinkedIn](https://www.linkedin.com/in/matthew-calimbas/) or reach out via email at [matthewcalimbas@gmail.com](mailto:matthewcalimbas@gmail.com).
+- **Responsive Design**: Your portfolio will look great on various devices, from desktop to mobile.
+- **Bootstrap CSS Framework**: Leverage the power of Bootstrap to quickly style your website.
+- **Easy Customization**: Customize the template to match your personal brand and showcase your work.
+- **Minimalistic Design**: A clean and minimalistic design ensures your work takes center stage.
 
 ## Getting Started
 
-To view the website locally, follow these steps:
-
-1. **Clone the Repository:** Start by cloning this repository to your local machine.
+1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/matt-calimbas-portfolio.git
+   git clone https://github.com/MattyCalimbas/portfolio.git
    ```
 
-2. **Navigate to the Directory:** Move into the project directory.
+2. Open the project folder in your code editor.
+
+3. Edit the HTML and CSS files to add your own content and style.
+
+4. Replace placeholder images and text with your own projects, images, and descriptions.
+
+5. Customize the navigation links and footer as needed.
+
+6. Test your changes locally:
 
    ```bash
-   cd matt-calimbas-portfolio
+   open index.html
    ```
 
-3. **Open the Website:** Simply open the `index.html` file in your web browser to view the portfolio.
+7. Once you're satisfied with your portfolio, you can deploy it to a hosting service of your choice.
+
+## Example
+
+Check out an example of this portfolio template [here](https://mattycalimbas.github.io/portfolio/).
 
 ## License
 
-This portfolio website is available under the [MIT License](LICENSE). Feel free to fork and modify the website according to your needs.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
+## Acknowledgments
 
-Thank you for visiting my portfolio website. I hope you enjoy exploring my projects and learning more about my journey in the world of web development and design. If you have any feedback or inquiries, don't hesitate to get in touch!
+- This template is built with [Bootstrap](https://getbootstrap.com/).
+- Special thanks to [Font Awesome](https://fontawesome.com/) for icons.
+- Inspiration for this template came from various open-source projects and portfolios.
+
+## Feedback and Contributions
+
+Feedback, bug reports, and contributions are welcome! Feel free to create issues and pull requests to help improve this template for others.
